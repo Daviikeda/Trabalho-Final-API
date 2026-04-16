@@ -1,4 +1,6 @@
 # API Figurinhas - Gerenciamento de Inventário
+### URL da API: http://localhost:2000/api/figurinhas
+### Link do PostMan Workspace: https://daviikedalopes-2971244.postman.co/workspace/9aa5b283-0299-4f6b-bb9b-c6ba3e45c2f8
 Este repositório contém o código-fonte de uma API REST desenvolvida para o controle de figurinhas colecionáveis. O projeto foi construído utilizando Node.js e Express, com persistência de dados em SQLite para garantir que as informações sejam mantidas localmente de forma leve e eficiente.
 
 ## Estrutura Técnica
